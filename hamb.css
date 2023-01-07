@@ -1,0 +1,53 @@
+.btn{
+    width: 100px;
+    height: 60px;
+    background-image: url("téléchargement.png") ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+body{
+    background-color: #f1f1f1;
+}
+ .nav ul{
+
+    list-style: none;
+    padding-left: 0;
+    
+}
+.nav ul li{
+    padding: 20px;
+}
+.nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: azure;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+   
+}
+.nav{
+    background-color: #1b1b1b;
+    display: block;
+    visibility: hidden;
+}
+span{
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: larger;
+    cursor: pointer;
+}
+.black{
+    background-color: black;
+}
+.blue{
+    background-color: blue;
+}
+.pink{
+    background-color: pink;
+}
+.yellow{
+    background-color: yellow;
+}
